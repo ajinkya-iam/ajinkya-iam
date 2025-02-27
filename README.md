@@ -5,7 +5,7 @@ Welcome to my GitHub! I am a passionate Android developer with 3.6+ years of exp
 
 ## 🛠️ Skills & Tech Stack  
 <p>  
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,react,nextjs,flutter,dart,js,typescript,sqlite,git,github,firebase,postman,figma" /> 
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,react,nextjs,flutter,dart,js,typescript,tailwind,git,github,firebase,postman,figma" /> 
 </p>  
 
 ## 📫 Connect with Me  
