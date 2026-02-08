@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Ajinkya Shinde**  
 ## 💻 Android Developer  
-Welcome to my GitHub! I am a passionate Android developer with 3.6+ years of experience creating innovative and user-friendly mobile applications. I specialize in building scalable, maintainable, and high-performance Android apps while implementing modern development practices and principles.
+Welcome to my GitHub! I am a passionate Android developer with 4+ years of experience creating innovative and user-friendly mobile applications. I specialize in building scalable, maintainable, and high-performance Android apps while implementing modern development practices and principles.
 
 
 ## 🛠️ Skills & Tech Stack  
